@@ -27,6 +27,7 @@ button {
   text-align: center;
   margin: 10px 0;
   background-color: #171717;
+  cursor:pointer;
 }
 .input{
   display: inline-block;
